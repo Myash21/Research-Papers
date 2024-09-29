@@ -1,4 +1,4 @@
-# AI Concepts and Mechanisms
+# Article links
 
 ## Attention Mechanism
 The attention mechanism is a transformative element in neural networks, especially in the field of Natural Language Processing (NLP). It allows models to selectively focus on relevant parts of the input sequence, enhancing the performance of tasks like translation, summarization, and question answering. By weighing the importance of different parts of the input, attention mechanisms enable more dynamic and context-sensitive processing.
