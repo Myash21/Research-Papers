@@ -11,4 +11,7 @@ Learn more about KV Cache and ChatGPT’s memory: [KV Cache, ChatGPT’s Memory]
 
 ## Transformers full guide
 https://freedium.cfd/https://medium.com/@cristianleo120/the-math-behind-transformers-6d7710682a1f
+
+## NLP interview questions
+https://medium.com/@milana.shxanukova15/100-nlp-questions-answers-attention-part-bf86e07251de
 """
