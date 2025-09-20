@@ -20,4 +20,7 @@ https://www.superannotate.com/blog/llm-fine-tuning
 
 ## NLP interview questions
 https://medium.com/@milana.shxanukova15/100-nlp-questions-answers-attention-part-bf86e07251de
+
+## Prompt Engineering
+https://www.promptingguide.ai/
 """
