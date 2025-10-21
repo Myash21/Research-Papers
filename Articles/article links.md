@@ -14,6 +14,7 @@ https://freedium.cfd/https://medium.com/@cristianleo120/the-math-behind-transfor
 
 ## LLM evaluation
 https://www.superannotate.com/blog/llm-evaluation-guide
+https://www.evidentlyai.com/ranking-metrics
 
 ## LLM Fine-tuning
 https://www.superannotate.com/blog/llm-fine-tuning
