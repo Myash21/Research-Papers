@@ -1,1 +1,9 @@
 https://www.figma.com/design/JZ2tHW1l3bVu8oOFbuBjSj/Untitled?node-id=0-1&t=QpYLQ1GSk8O0NJXs-1
+
+Modern organizations grapple with many challenges with respect to EA like complexity, security and alignment with business objectives. To effectively address these challenges several critical requirements need to be met:
+
+1. Clear strategy: Organizations should define a clear well defined strategy that aligns with their business objectives.
+2. Risk Assessment: Regular and comprehensive risk assessment should be conducted.
+3. Documentation: A robust documentation framework must be maintained to document current and target states.
+4. Standardization: The implementation of architecture standardization and best practices using frameworks like TOGAF or Zachran is important in ensuring consistency and reducing complexity.
+5. Governance Framework: A governance framework should be meticulously established to oversee and manage all enterprise architecture activities.
